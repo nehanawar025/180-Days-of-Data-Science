@@ -26,8 +26,8 @@ Each `Day-XX` folder contains:
 
 | Day | Topic | Code | Notes | Status |
 |-----|-------|------|-------|--------|
-| 1   | Python Async/await | [`Codes`](Day-1/codes) | [`README.md`](Day-1/README.md) |✅|
-| 2   | *Coming soon...* | – | – |🚧|
+| 1   | Async/await | [`Codes`](Day-1/codes) | [`README.md`](Day-1/README.md) |✅|
+| 2   | Generator, Decorators, Context Manager | – | – |🚧|
 | …   | … | … | … | … |
 
 > ✅ = Completed 🚧 = In progress
